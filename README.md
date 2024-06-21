@@ -1,5 +1,5 @@
 # IT Technician
-TECHNICAL SKILLS & INTERESTS
+## TECHNICAL SKILLS & INTERESTS
 
 Programming Languages: Python, HTML, CSS, MySQL (Novice)
 Development Tools: Git, GitHub, NetBox (Novice)
@@ -10,11 +10,11 @@ Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Co
 EDUCATION
 
 
-Bethune-Cookman University							    		     Daytona Beach, FL
-Major in Computer Information Systems | Concentration in Networking | GPA: 3.3		                Class of 2025
-Relevant Coursework: Computer Networking, Network Administration I, 
-Certifications: Testout PC Pro, CompTIA A+, 
-Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
+** Bethune-Cookman University							    		     Daytona Beach, FL
+- Major in Computer Information Systems | Concentration in Networking | GPA: 3.3		                Class of 2025
+- Relevant Coursework: Computer Networking, Network Administration I, 
+- Certifications: Testout PC Pro, CompTIA A+, 
+- Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
 
 Orange Technical College (East Campus)    							 	   Orlando, FL
 Certification in Information Technology | GPA: 4.0		                                                                    
