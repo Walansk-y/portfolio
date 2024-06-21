@@ -1,9 +1,9 @@
 # IT Technician
 ## TECHNICAL SKILLS & INTERESTS
 
-- Programming Languages: Python, HTML, CSS, MySQL _(Novice)_
-- Development Tools: Git, GitHub, NetBox _(Novice)_
-- Operating Systems: macOS _(Novice)_,  Linux _(Intermediate)_, Windows _(Advanced)_
+* Programming Languages: Python, HTML, CSS, MySQL _(Novice)_
+* Development Tools: Git, GitHub, NetBox _(Novice)_
+* Operating Systems: macOS _(Novice)_,  Linux _(Intermediate)_, Windows _(Advanced)_
 - Soft Skills: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
 - Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Composition, Vinyl Collecting, Sports
 
