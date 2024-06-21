@@ -1,16 +1,16 @@
 # IT Technician
 ## TECHNICAL SKILLS & INTERESTS
 
-Programming Languages: Python, HTML, CSS, MySQL (Novice)
-Development Tools: Git, GitHub, NetBox (Novice)
-Operating Systems: macOS (Novice),  Linux (Intermediate), Windows (Advanced)
-Soft Skills: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
-Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Composition, Vinyl Collecting, Sports
+- Programming Languages: Python, HTML, CSS, MySQL (Novice)
+- Development Tools: Git, GitHub, NetBox (Novice)
+- Operating Systems: macOS (Novice),  Linux (Intermediate), Windows (Advanced)
+- Soft Skills: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
+- Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Composition, Vinyl Collecting, Sports
 
-EDUCATION
+## EDUCATION
 
 
-** Bethune-Cookman University							    		     Daytona Beach, FL
+**Bethune-Cookman University							    		     Daytona Beach, FL
 - Major in Computer Information Systems | Concentration in Networking | GPA: 3.3		                Class of 2025
 - Relevant Coursework: Computer Networking, Network Administration I, 
 - Certifications: Testout PC Pro, CompTIA A+, 
