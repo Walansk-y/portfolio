@@ -1,27 +1,27 @@
 # IT Technician
-## TECHNICAL SKILLS & INTERESTS
+## Technical Skills & Interests
 * Programming Languages: Python, HTML, CSS, MySQL _(Novice)_
 * Development Tools: Git, GitHub, NetBox _(Novice)_
 * Operating Systems: macOS _(Novice)_,  Linux _(Intermediate)_, Windows _(Advanced)_
 * Soft Skills: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
 * Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Composition, Vinyl Collecting, Sports
 
-## EDUCATION
+## Education
 **Bethune-Cookman University | Daytona Beach, FL** _Class of 2025_
-* Major in Computer Information Systems | Concentration in Networking | GPA: 3.3
-* Relevant Coursework: Computer Networking, Network Administration I, 
-* Certifications: Testout PC Pro, CompTIA A+, 
-* Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
+> B.S. in Computer Information Systems | Concentration in Networking | GPA: 3.3
+> Relevant Coursework: Computer Networking, Network Administration I, 
+> Certifications: Testout PC Pro, [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40), 
+> Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
 
-Orange Technical College (East Campus)    							 	   Orlando, FL
-Certification in Information Technology | GPA: 4.0		                                                                    
-Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
+**Orange Technical College (East Campus) | Orlando, FL**
+> Certification in Information Technology | GPA: 4.0		                                                                    
+> Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
 
-Edgewater High School						    		                             Orlando, FL
-High School Diploma | GPA: 3.57		                                                                                              
-Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
+**Edgewater High School | Orlando, FL**
+> High School Diploma | GPA: 3.57		                                                                                              
+> Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
 
-WORK EXPERIENCE
+## Work Experience
 
 
 
