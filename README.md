@@ -18,25 +18,31 @@
 > Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List | Target Scholar
 
 **Orange Technical College (East Campus) | Orlando, FL**
-> Certification in Information Technology | GPA: 4.0		                                                                    
+> Certification in Information Technology | GPA: 4.0
+> 		                                                                    
 > Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
 
 **Edgewater High School | Orlando, FL**
-> High School Diploma | GPA: 3.57		                                                                                              
+> High School Diploma | GPA: 3.57
+> 		                                                                                              
 > Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
 
 ## Work Experience
 **Gordon Food Service | Plant City, FL**
-Network Administrator Intern _May 2024 - July 2024_
+Network Administrator Intern
+_May 2024 - July 2024_
 > * Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
 > * Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
 > * Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
 
-Gordon Food Service				    				                                         Plant City, FL
-Rotational Intern 									                 May 2023 - July 2023
-Rotated through multiple roles, acquiring a comprehensive understanding of the end-to-end operations and supply chain dynamics within GFS.
-Developed strong interpersonal skills while working alongside professionals from diverse backgrounds, fostering effective communication and the ability to adapt to varying work environments.
-Developed a proactive mindset and critical thinking abilities to overcome complex business problems in a fast-paced and dynamic industry.
+**Gordon Food Service | Plant City, FL**
+Rotational Intern
+_May 2023 - July 2023_
+> * Rotated through multiple roles, acquiring a comprehensive understanding of the end-to-end operations and supply chain dynamics within GFS.
+> * 
+> * Developed strong interpersonal skills while working alongside professionals from diverse backgrounds, fostering effective communication and the ability to adapt to varying work environments.
+> * 
+> * Developed a proactive mindset and critical thinking abilities to overcome complex business problems in a fast-paced and dynamic industry.
 Target										                                          Orlando, FL
 General Merchandise Expert									    May 2022 - Apr 2023
 Handled over 600 pulls and back stock products from General Merchandise categories including pushing and stocking products to the sales floor efficiently and timely in addition to efficiently unloading 28’, 48’, and 53’ trailers.
