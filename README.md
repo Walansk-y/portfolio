@@ -32,28 +32,36 @@
 Network Administrator Intern
 _May 2024 - July 2024_
 > * Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
+>   
 > * Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
+>   
 > * Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
 
 **Gordon Food Service | Plant City, FL**
 Rotational Intern
 _May 2023 - July 2023_
 > * Rotated through multiple roles, acquiring a comprehensive understanding of the end-to-end operations and supply chain dynamics within GFS.
-> * 
+>   
 > * Developed strong interpersonal skills while working alongside professionals from diverse backgrounds, fostering effective communication and the ability to adapt to varying work environments.
-> * 
+>   
 > * Developed a proactive mindset and critical thinking abilities to overcome complex business problems in a fast-paced and dynamic industry.
-Target										                                          Orlando, FL
-General Merchandise Expert									    May 2022 - Apr 2023
-Handled over 600 pulls and back stock products from General Merchandise categories including pushing and stocking products to the sales floor efficiently and timely in addition to efficiently unloading 28’, 48’, and 53’ trailers.
-Contributed to team results in a fast-paced General Merchandise environment while supporting the needs of guest services with skill and efficiency.
+
+**Target | Orlando, FL**
+General Merchandise Expert
+_May 2022 - Apr 2023_
+> * Handled over 600 pulls and backstock products from General Merchandise categories including pushing and stocking products to the sales floor efficiently and timely in addition to efficiently unloading 28’, 48’, and 53’ trailers.
+>   
+> * Contributed to team results in a fast-paced General Merchandise environment while supporting the needs of guest services with skill and efficiency.
 Resolved inventory problems, improved operations, and provided exceptional client support.
 
-Walmart										                             Orlando, FL
-OGP/ Personal Shopper									                 Apr 2021 - Aug 2021
-Gather customers' items from their online grocery list and have them ready for pick up at the appropriate time.
-Monitor sales activities to ensure that customers receive satisfactory service and quality goods.
-Provide customer service by greeting and assisting customers, and responding to customer inquiries and complaints.
+**Walmart | Orlando, FL**
+OGP/ Personal Shopper
+_Apr 2021 - Aug 2021_
+> * Gather customers' items from their online grocery list and have them ready for pick up at the appropriate time.
+>   
+> * Monitor sales activities to ensure that customers receive satisfactory service and quality goods.
+>   
+> * Provide customer service by greeting and assisting customers, and responding to customer inquiries and complaints.
 
 Chick-Fil-A										                             Orlando, FL
 Back of House Team Member								                 Aug 2019 - Apr 2021
