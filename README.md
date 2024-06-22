@@ -8,10 +8,10 @@
 
 ## Education
 **Bethune-Cookman University | Daytona Beach, FL** _Class of 2025_
-> B.S. in Computer Information Systems
-> Relevant Coursework: Computer Networking, Network Administration I & II, Network Design
-> Certifications: [Testout PC Pro](https://certification.testout.com/verifycert/6-2C6-VWN8U), [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40),
-> Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List | Target Scholar
+> * B.S. in Computer Information Systems
+> * Relevant Coursework: Computer Networking, Network Administration I & II, Network Design
+> * Certifications: [Testout PC Pro](https://certification.testout.com/verifycert/6-2C6-VWN8U), [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40),
+> * Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List | Target Scholar
 
 **Orange Technical College (East Campus) | Orlando, FL**
 > Certification in Information Technology | GPA: 4.0                                                                    
