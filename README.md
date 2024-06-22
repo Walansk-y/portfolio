@@ -8,13 +8,14 @@
 
 ## Education
 **Bethune-Cookman University | Daytona Beach, FL** _Class of 2025_
+
 > B.S. in Computer Information Systems | Concentration in Networking | GPA: 3.3
-> 
-> Relevant Coursework: Computer Networking, Network Administration I,
-> 
+>
+> Relevant Coursework: Computer Networking, Network Administration I & II, Network Design
+>
 > Certifications: [Testout PC Pro](https://certification.testout.com/verifycert/6-2C6-VWN8U), [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40),
-> 
-> Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
+>
+> Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List | Target Scholar
 
 **Orange Technical College (East Campus) | Orlando, FL**
 > Certification in Information Technology | GPA: 4.0		                                                                    
@@ -25,14 +26,11 @@
 > Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
 
 ## Work Experience
-
-
-
-Gordon Food Service				    				                                         Plant City, FL
-Network Administrator Intern 									    May 2024 - July 2024
-Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
-Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
-Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
+**Gordon Food Service | Plant City, FL**
+Network Administrator Intern _May 2024 - July 2024_
+> * Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
+> * Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
+> * Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
 
 Gordon Food Service				    				                                         Plant City, FL
 Rotational Intern 									                 May 2023 - July 2023
