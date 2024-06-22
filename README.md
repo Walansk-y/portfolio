@@ -57,28 +57,32 @@ _Aug 2019 - Apr 2021_
 > * Ensuring the freshness of food and ingredients by checking for quality, and keeping track of old and new items while rotating stock.
 > * Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices.
 
-## LEADERSHIP EXPERIENCE & ACTIVITIES
+## Leadership Experience & Activies 
 
-Orange Technical College (East Campus)							                 Orlando, FL
-Teacher Assistant										    Jan 2020 - May 2020
-Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.
-Reimage computers, laptops, and other equipment and materials to supplement lab materials for other students.
-Analyze equipment performance records bi-weekly to determine the need for repair or replacement. 
+**Orange Technical College | Orlando, FL**
+Teacher Assistant
+_Jan 2020 - May 2020_
+> * Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.
+> * Reimage computers, laptops, and other equipment and materials to supplement lab materials for other students.
+> * Analyze equipment performance records bi-weekly to determine the need for repair or replacement. 
 
-Bethune-Cookman University									      Daytona Beach, FL
-Section Leader										                    May 2022 - Current
-Provided leadership and training to approximately 30+ members on how to operate within the section efficiently; to optimize sectional time and run procedures needed during practice.
-Coordinated and created various training exercises to help the effectiveness and efficiency of the assigned section to perform at the required level.
-Made decisions based on priorities to meet changing requirements; reassigned parts and positions as necessary, and reviewed, analyzed, and evaluated progress and effectiveness throughout the season.
+**Bethune-Cookman University | Daytona Beach, FL**
+Section Leader
+_May 2022 - Current_
+> * Provided leadership and training to approximately 30+ members on how to operate within the section efficiently; to optimize sectional time and run procedures needed during practice.
+> * Coordinated and created various training exercises to help the effectiveness and efficiency of the assigned section to perform at the required level.
+> * Made decisions based on priorities to meet changing requirements; reassigned parts and positions as necessary, and reviewed, analyzed, and evaluated progress and effectiveness throughout the season.
 
-The Taylor Creation     									      Daytona Beach, FL
-2nd Vice President			                        					             March 2023 - May 2024
-Founding member of a service organization dedicated to fostering musicianship and leadership within high school band programs.
-Developed and implemented innovative workshops and mentorship programs, positively impacting the musical growth and personal development of over 200 students.
-Demonstrated strong organizational and leadership skills, effectively coordinating volunteers and resources to achieve ambitious goals.
+**The Taylor Creation | Daytona Beach, FL**
+2nd Vice President
+_March 2023 - May 2024_
+> * Founding member of a service organization dedicated to fostering musicianship and leadership within high school band programs.
+> * Developed and implemented innovative workshops and mentorship programs, positively impacting the musical growth and personal development of over 200 students.
+> * Demonstrated strong organizational and leadership skills, effectively coordinating volunteers and resources to achieve ambitious goals.
 
-Kappa Kappa Psi National Honorary Band Fraternity Inc | Eta Iota Chapter      		      Daytona Beach, FL
-Secretary            			                        					              January 2024 - Current
-Facilitated communication between chapter members, university faculty, and external stakeholders, fostering strong relationships and promoting the fraternity's goals and activities.
-Demonstrated strong organizational skills and attention to detail in managing documentation, filing systems, and official correspondence, enhancing the professionalism and efficiency of the chapter's operations.
-Collaborated closely with executive board members and advisors to support strategic planning, goal setting, and decision-making processes, contributing to the overall growth and success of the fraternity.
+**Kappa Kappa Psi National Honorary Band Fraternity Inc | Eta Iota Chapter | Daytona Beach, FL**
+Secretary
+_January 2024 - Current_
+> * Facilitated communication between chapter members, university faculty, and external stakeholders, fostering strong relationships and promoting the fraternity's goals and activities.
+> * Demonstrated strong organizational skills and attention to detail in managing documentation, filing systems, and official correspondence, enhancing the professionalism and efficiency of the chapter's operations.
+> * Collaborated closely with executive board members and advisors to support strategic planning, goal setting, and decision-making processes, contributing to the overall growth and success of the fraternity.
