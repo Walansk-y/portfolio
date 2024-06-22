@@ -8,23 +8,17 @@
 
 ## Education
 **Bethune-Cookman University | Daytona Beach, FL** _Class of 2025_
-
-> B.S. in Computer Information Systems | Concentration in Networking | GPA: 3.3
->
+> B.S. in Computer Information Systems
 > Relevant Coursework: Computer Networking, Network Administration I & II, Network Design
->
 > Certifications: [Testout PC Pro](https://certification.testout.com/verifycert/6-2C6-VWN8U), [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40),
->
 > Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List | Target Scholar
 
 **Orange Technical College (East Campus) | Orlando, FL**
-> Certification in Information Technology | GPA: 4.0
-> 		                                                                    
+> Certification in Information Technology | GPA: 4.0                                                                    
 > Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
 
 **Edgewater High School | Orlando, FL**
-> High School Diploma | GPA: 3.57
-> 		                                                                                              
+> High School Diploma | GPA: 3.57                                                                                              
 > Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
 
 ## Work Experience
@@ -32,25 +26,20 @@
 Network Administrator Intern
 _May 2024 - July 2024_
 > * Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
->   
 > * Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
->   
 > * Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
 
 **Gordon Food Service | Plant City, FL**
 Rotational Intern
 _May 2023 - July 2023_
 > * Rotated through multiple roles, acquiring a comprehensive understanding of the end-to-end operations and supply chain dynamics within GFS.
->   
 > * Developed strong interpersonal skills while working alongside professionals from diverse backgrounds, fostering effective communication and the ability to adapt to varying work environments.
->   
 > * Developed a proactive mindset and critical thinking abilities to overcome complex business problems in a fast-paced and dynamic industry.
 
 **Target | Orlando, FL**
 General Merchandise Expert
 _May 2022 - Apr 2023_
 > * Handled over 600 pulls and backstock products from General Merchandise categories including pushing and stocking products to the sales floor efficiently and timely in addition to efficiently unloading 28’, 48’, and 53’ trailers.
->   
 > * Contributed to team results in a fast-paced General Merchandise environment while supporting the needs of guest services with skill and efficiency.
 Resolved inventory problems, improved operations, and provided exceptional client support.
 
@@ -58,20 +47,17 @@ Resolved inventory problems, improved operations, and provided exceptional clien
 OGP/ Personal Shopper
 _Apr 2021 - Aug 2021_
 > * Gather customers' items from their online grocery list and have them ready for pick up at the appropriate time.
->   
 > * Monitor sales activities to ensure that customers receive satisfactory service and quality goods.
->   
 > * Provide customer service by greeting and assisting customers, and responding to customer inquiries and complaints.
 
-Chick-Fil-A										                             Orlando, FL
-Back of House Team Member								                 Aug 2019 - Apr 2021
-Review work procedures and operational problems to determine ways to improve service, performance, or safety.
-Ensuring the freshness of food and ingredients by checking for quality, and keeping track of old and new items while rotating stock.
-Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices.
+**Chick-Fil-A | Orlando, FL**
+Back of House Team Member
+_Aug 2019 - Apr 2021_
+> * Review work procedures and operational problems to determine ways to improve service, performance, or safety.
+> * Ensuring the freshness of food and ingredients by checking for quality, and keeping track of old and new items while rotating stock.
+> * Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices.
 
-LEADERSHIP EXPERIENCE & ACTIVITIES
-
-
+## LEADERSHIP EXPERIENCE & ACTIVITIES
 
 Orange Technical College (East Campus)							                 Orlando, FL
 Teacher Assistant										    Jan 2020 - May 2020
